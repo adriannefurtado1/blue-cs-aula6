@@ -4,11 +4,11 @@
     {
         static void Main(string[] args)
         {
-            //A6E1JogoDaVelha();
+            A6E1JogoDaVelha();
             //A6E2GerenciandoSalarios();
             //A6E3FaturadeServico();
             //A6E4Sorteio();
-            A6E5ManipulaString();
+            //A6E5ManipulaString();
 
         }
 
